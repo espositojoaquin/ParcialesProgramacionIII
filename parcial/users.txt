@@ -1,0 +1,1 @@
+a:2:{i:0;O:7:"Usuario":2:{s:5:"email";s:29:"joako-esposito@hotmail.com.ar";s:5:"clave";s:4:"rojo";}i:1;O:7:"Usuario":2:{s:5:"email";s:27:"ana-esposito@hotmail.com.ar";s:5:"clave";s:4:"boca";}}

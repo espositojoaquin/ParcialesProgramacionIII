@@ -1,0 +1,1 @@
+a:2:{i:0;O:8:"Profesor":3:{s:6:"nombre";s:6:"leonel";s:6:"legajo";s:2:"12";s:6:"imagen";s:38:"./imagenes/12.060520_004813.imagen.jpg";}i:1;O:8:"Profesor":3:{s:6:"nombre";s:6:"martin";s:6:"legajo";s:2:"11";s:6:"imagen";s:38:"./imagenes/11.060520_014625.imagen.jpg";}}

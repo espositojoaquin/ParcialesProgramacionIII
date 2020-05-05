@@ -1,0 +1,12 @@
+{
+    "name": "joaquin/tp2",
+    "authors": [
+        {
+            "name": "espositojoaquin",
+            "email": "joako-esposito@hotmail.com.ar"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
